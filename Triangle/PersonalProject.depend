@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1650125903 source:c:\users\alex\desktop\grafica pe calculator\personalproject\main.cpp
+	<iostream>
+	<glad/glad.h>
+	<GLfW/glfw3.h>
+
+1646864443 source:c:\users\alex\desktop\grafica pe calculator\personalproject\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
