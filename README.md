@@ -1,1 +1,1 @@
-# PersonalProjects_OpenGL_
+Personal projects to understand OpenGL better
